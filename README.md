@@ -1,4 +1,4 @@
-# Narrator
+#(WIP) Narrator
 
 **Narrator** is a Discord bot designed to enhance storytelling experiences within Discord servers. With a focus on flexibility and customization, Narrator allows users, specifically those with the Game_Master role, to define their own database of elements that contribute to world-building and storytelling. These elements can include text descriptions, images, embeds, and more.
 
